@@ -13,11 +13,11 @@ across the organization. One of the problems your client faces is identifying th
 people for promotion (only for the manager position and below) and preparing them in
 time.
 Currently the process, they are following is:
-● They first identify a set of employees based on recommendations/ past
+- They first identify a set of employees based on recommendations/ past
 performance.
-● Selected employees go through the separate training and evaluation program for
+- Selected employees go through the separate training and evaluation program for
 each vertical.
-● These programs are based on the required skill of each vertical. At the end of the
+- These programs are based on the required skill of each vertical. At the end of the
 program, based on various factors such as training performance, KPI completion
 (only employees with KPIs completed greater than 60% are considered) etc., the
 employee gets a promotion.
