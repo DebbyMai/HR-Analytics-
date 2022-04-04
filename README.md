@@ -26,5 +26,4 @@ evaluation, and this leads to a delay in transition to their new roles. Hence, t
 needs your help in identifying the eligible candidates at a particular checkpoint so that
 they can expedite the entire promotion cycle.
 They have provided multiple attributes around employees’ past and current performance
-along with demographics. Now, The task is to predict whether a potential promotee at a
-checkpoint will be promoted or not after the evaluation process.
+along with demographics. 
