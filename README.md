@@ -41,7 +41,7 @@ along with demographics.
 ## Summary of Findings
 From the train dataset:-
 
-More male staff are likely to be promoted
-More region 2 staff are likely to be promoted
-More bachelor holder staff are likely to be promoted
-More staff in sales & marketing are likely to be promoted
+- More male staff are likely to be promoted
+- More region 2 staff are likely to be promoted
+- More bachelor holder staff are likely to be promoted
+- More staff in sales & marketing are likely to be promoted
