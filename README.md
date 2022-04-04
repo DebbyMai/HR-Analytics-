@@ -37,3 +37,11 @@ along with demographics.
 ## Dataset Used
 - Dataset URL: https://bit.ly/2ODZvLCHRDataset
 - Glossary URL: https://bit.ly/2Wz3sWcGlossary
+
+## Summary of Findings
+From the train dataset:-
+
+More male staff are likely to be promoted
+More region 2 staff are likely to be promoted
+More bachelor holder staff are likely to be promoted
+More staff in sales & marketing are likely to be promoted
