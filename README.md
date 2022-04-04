@@ -27,3 +27,13 @@ needs your help in identifying the eligible candidates at a particular checkpoin
 they can expedite the entire promotion cycle.
 They have provided multiple attributes around employees’ past and current performance
 along with demographics. 
+
+## Technologies and Tools
+- Pandas
+- Numpy
+- Matplotlib
+- Seaborn
+
+## Dataset Used
+- Dataset URL: https://bit.ly/2ODZvLCHRDataset
+- Glossary URL: https://bit.ly/2Wz3sWcGlossary
